@@ -41,7 +41,11 @@
 .. toctree::
     :maxdepth: 0
     :caption: 3.裁判系统调试操作提示
-
-    ch3/3-1.md
+    
     ch3/3-2.md
     ch3/3-3.md
+
+
+    :maxdepth: 1
+    :caption: 3.1常用手册
+    ch3/ch3-1/3-1-1.md
